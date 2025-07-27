@@ -1,0 +1,5 @@
+torch
+transformers
+PyPDF2
+fpdf2
+sentencepiece
